@@ -1,4 +1,4 @@
 # htools
-just a convenient place to keep some of my scenes and HDAs.
+some of my scenes and assets.
 
 camera asset - https://vimeo.com/349368657
